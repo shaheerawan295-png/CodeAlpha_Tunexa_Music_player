@@ -54,7 +54,7 @@ MUSIC PLAYER/
 ├── README.md
 ├── screenshot.png
 ├── script.js
-└── style.cssENSE
+└── style.css
 ```
 
 ---
