@@ -6,7 +6,7 @@ A modern, responsive, and interactive music player built using **HTML**, **CSS**
 
 ## 🚀 Live Demo
 
-🔗 https://YOUR_USERNAME.github.io/tunexa-music-player/
+🔗 https://shaheerawan295-png.github.io/CodeAlpha_Tunexa_Music_player/
 
 ---
 
@@ -64,7 +64,7 @@ MUSIC PLAYER/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/shaheerawan295-png/tunexa-music-player.git
+git clone https://shaheerawan295-png.github.io/CodeAlpha_Tunexa_Music_player.git
 ```
 
 ### Navigate to the project folder
